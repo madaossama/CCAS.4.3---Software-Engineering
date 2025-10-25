@@ -1,0 +1,5 @@
+git branch <branch-name>          # Creates a new branch
+git merge <branch-name>           # Merges changes from one branch into another
+git commit -m "Commit message"    # Commits changes to the repository with a message
+git push origin <branch-name>     # Pushes changes to the remote repository
+git pull origin <branch-name>     # Pulls changes from the remote repository
